@@ -1,12 +1,13 @@
 # Complete CCNA 200-300 Course Notes
 
-This is a fork of psaumur's CCNA notes using Markdown. I have some experience with Markdown and want to add some information to these notes. 
+This is a fork of psaumur's CCNA notes using Markdown. \
+I have some experience with Markdown and want to add some information to these notes. 
 
 Jeremy's IT Lab [Complete Course for the CCNA 200-300](https://www.youtube.com/watch?v=H8W9oMNSuwo&list=PLxbwE86jKRgMpuZuLBivzlM8s2Dk5lXBQ) 
 
 psaumar created a separate custom [YouTube Playlist](https://www.youtube.com/watch?v=a1Im6GYaSno&list=PLeKkafR2n05H0FZNgcz2z56pMPooaskFr) of just the Course Labs for easy access.
 
-He also recommended:
+He also recommended: \
 Jeremy's second set of [older labs](https://www.youtube.com/watch?v=XgcGcrLKu1A&list=PLxbwE86jKRgMQ4HTuaJ7yQgA2BoNwY9ct) for practice during, and after, finishing the course, for review.
 
 And
